@@ -2,9 +2,9 @@
 print
 # Complete the line of code to tell Python to display the name of the oval object laid by a hen. (1 word, lower-case)
 # print________
-print ("egg")
+print("egg")
 # Tell Python to display the letter "e".
-print ("e")
+print("e")
 # Tell Python to display the name of our planet. (1 word, lower-case)
 print("earth")
 # Tell Python to display the name of the star that makes life possible on earth. (1 word, lower-case)
@@ -13,7 +13,7 @@ print("sun")
 # Press ctrl-Enter or click button to check answer
 # string
 # Tell Python to display the first three letters of the alphabet in upper-case.
-print ("abc")
+print("abc")
 # Tell Python to display a string of your choice
 print("hello world")
 # Tell Python to display your first name.
